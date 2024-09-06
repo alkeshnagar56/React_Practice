@@ -1,0 +1,11 @@
+.navbar{
+    background-color:rgb(137, 43, 226);
+    color: white;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+    list-style-type: none;
+    font-size: 30px;
+}
